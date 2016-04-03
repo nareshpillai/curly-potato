@@ -2,4 +2,4 @@ version: 0.0
 os: linux
 files:
   - source: /npcodedeploy/deploy
-    destination: /usr/share/tomcat8/webapps
+    destination: /usr/share/tomcat8/webapps  
