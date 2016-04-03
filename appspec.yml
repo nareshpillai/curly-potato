@@ -1,5 +1,5 @@
 version: 0.0
 os: linux
 files:
-  - source: /job/MyCurlyPotato/ws/target/
-    destination: /home/bitnami/stack/apache-tomcat/webapps
+  - source: /npcodedeploy/deploy
+    destination: /usr/share/tomcat8/webapps
