@@ -39,7 +39,7 @@
 		              <outputDirectory>${basedir}/target</outputDirectory>
 		              <resources>          
 		                <resource>
-		                  <directory>src/</directory>
+		                  <directory>/</directory>
 		                  <filtering>false</filtering>
 		                  <include>*.yml</include>
 		                </resource>
